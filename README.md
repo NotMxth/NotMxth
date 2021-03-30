@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NotMxth, known as Felix.
+- 👀 I’m interested in Python Scripting!
+- 🌱 I’m currently learning Scripting
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reaching me is currently by getting onto the TeamSpeak Server; "Underworld".
